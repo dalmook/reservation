@@ -62,3 +62,4 @@ curl http://jump.dalbong2.synology.me:18090/health
 - 알림톡/문자 발송
 - PostgreSQL 옵션
 - 멀티 지점
+Code → README.md → 연필 아이콘 → 맨 아래 빈 줄 하나 추가 → Commit changes
